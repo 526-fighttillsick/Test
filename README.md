@@ -1,2 +1,2 @@
 # Test
-print('Status: Fail')
+Status: Fail
